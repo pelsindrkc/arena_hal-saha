@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\arena\arena\bin\Debug\arena.exe.config
+C:\Users\HP\source\repos\arena\arena\bin\Debug\arena.exe
+C:\Users\HP\source\repos\arena\arena\bin\Debug\arena.pdb
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.Form1.resources
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.Properties.Resources.resources
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.exe
+C:\Users\HP\source\repos\arena\arena\obj\Debug\arena.pdb
